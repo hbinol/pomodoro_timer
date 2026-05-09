@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+**After every commit, update this file** to reflect any changes to architecture, commands, or design decisions made in that commit.
+
 ## Project
 
 **Penguin Focus** — a gamified Pomodoro timer (web app) where a penguin character travels across the Arctic as focus sessions are completed. See `spec.md` for the full product spec.
